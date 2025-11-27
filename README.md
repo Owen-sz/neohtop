@@ -85,7 +85,7 @@ Download the latest release from the [releases page](https://github.com/Abdenass
 
 ##### macOS
 
-Using [Homebrew](https://brew.sh/)
+Using [Homebrew](https://brew.sh/).
 
 ```bash
 brew install --cask neohtop
@@ -93,7 +93,7 @@ brew install --cask neohtop
 
 ##### Arch Linux (AUR)
 
-Using the [AUR](https://aur.archlinux.org/) and [an AUR helper](https://wiki.archlinux.org/title/AUR_helpers)
+Using the [AUR](https://aur.archlinux.org/) and [an AUR helper](https://wiki.archlinux.org/title/AUR_helpers).
 
 ```bash
 yay -S neohtop
@@ -106,7 +106,7 @@ paru -S neohtop
 ```
 
 ##### Fedora Linux
-Install the [Terra repository](https://terra.fyralabs.com/)
+Install the [Terra repository](https://terra.fyralabs.com/).
 
 ```bash
 dnf install neohtop
@@ -119,7 +119,7 @@ Install the [Scoop repository](https://scoop.sh/), then make sure you have the S
 scoop bucket add extras
 ```
 
-Then install with
+Then install with:
 
 ```bash
 scoop install extras/neohtop
